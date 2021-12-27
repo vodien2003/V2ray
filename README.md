@@ -1,2 +1,9 @@
-VIỆT NAM 🇻🇳 Hà NỘI 
-vmess://eyJhZGQiOiIxMDMuMTYxLjE3Ny4xMjEiLCJhaWQiOiIxMDAiLCJob3N0Ijoidml1LWZyb250ZW5kLmFrYW1haXplZC5uZXQiLCJpZCI6Ijc5MmI4OWE3LTJmYzUtNDcyNS1iMTM0LTYwN2EwMTQxYzMxYSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiSMOgIE7hu5lpIDAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+{
+
+"SendMessage":15,
+
+"MyMessage":
+
+"XIN CHÀO BẠN ❤  \n \n ⚡ Tên APP : DIỆN VPN PRO 🔥 \n ⚡ Phiên Bản Hiện Tại : 2.0 🔥 \n \n Chúc mừng năm mới 2022. Chúc gia đình và các bạn hạnh phúc, tấn tài tấn lộc tấn tấn an khang. 🔥 \n \n 🔥 Phát Triển Bởi Võ Văn Diện 💟"
+
+}
